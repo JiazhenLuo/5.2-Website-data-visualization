@@ -1,0 +1,32 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+#container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    /* border: 3px solid black; */
+}
+
+svg {
+    display: block;
+    /* border: 2px solid blue; */
+    width: 83vw;
+    height: 60vh;
+  }
+
+  .nyc_consumption_million_gallons_per_day {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 10px;
+  }
+
+  .label, .title, .source, .axisNum {
+    font-family: 'Courier New', Courier, monospace;
+}
+
+
+
+
