@@ -13,9 +13,9 @@
 
 svg {
     display: block;
-    /* border: 2px solid blue; */
-    width: 83vw;
-    height: 60vh;
+    border: 2px solid blue;
+    width: 1440px;
+    height: 600px;
   }
 
   .nyc_consumption_million_gallons_per_day {
